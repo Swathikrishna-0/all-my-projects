@@ -16,6 +16,7 @@ const ProjectTimelineCard = props => {
     imageUrl,
     projectTitle,
     description,
+    githubUrl,
     projectUrl,
     duration,
   } = projectDetails
@@ -31,7 +32,10 @@ const ProjectTimelineCard = props => {
         </DurationContainer>
       </ProjectTitleAndDurationContainer>
       <ProjectDescription>{description}</ProjectDescription>
-      <VisitLink href={projectUrl}>Visit</VisitLink>
+      <div>
+      <VisitLink href={projectUrl} target='_blank'>Project Demo</VisitLink> &nbsp;&nbsp;&nbsp;
+      <VisitLink href={githubUrl} target='_blank'>Github</VisitLink>
+      </div>
     </ProjectCardContainer>
   )
 }

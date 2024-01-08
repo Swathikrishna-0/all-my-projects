@@ -48,10 +48,10 @@ const timelineItemsList = [
     projectTitle: "Tourism Website",
     description:
       "A tourism website enables the user to browse through the images of popular destinations.",
-    imageUrl: "https://assets.ccbp.in/frontend/react-js/projects-s4-img.png",
-    duration: "1 hr",
-    projectUrl: "https://tourismapp.ccbp.tech/",
-    githubUrl:"https://nxtz.ccbp.tech/"
+    imageUrl: "{image}",
+    duration: "3 hrs",
+    projectUrl: "https://skyscanner-a131d.web.app/",
+    githubUrl:"https://github.com/Swathikrishna-0/Skyscanner-Clone"
   },
   {
     id: "e093c08a-a2ae-413a-814b-e7c83f5f2ac3",
@@ -60,7 +60,7 @@ const timelineItemsList = [
     projectTitle: "Nxt Trendz",
     description:
       "Nxt Trendz application is an E-commerce application like Amazon, Flipkart where users can log in and see the list of products with search, filters, sort by, etc.",
-    imageUrl: "https://assets.ccbp.in/frontend/react-js/nxt-trendz-img.png",
+    imageUrl: "./components/assets/skyscanner.png",
     duration: "6 hrs",
     projectUrl: "https://nxtz.ccbp.tech/",
     githubUrl:"https://nxtz.ccbp.tech/"
