@@ -45,7 +45,7 @@ const timelineItemsList = [
     id: "a19d93d6-bdac-479e-b554-974ef9e6e66c",
     categoryId: "PROJECT",
     title: "27 MAY 2021",
-    projectTitle: "Tourism Website",
+    projectTitle: "SkyScanner Clone",
     description:
       "A tourism website enables the user to browse through the images of popular destinations.",
     imageUrl: "{image}",
@@ -57,13 +57,13 @@ const timelineItemsList = [
     id: "e093c08a-a2ae-413a-814b-e7c83f5f2ac3",
     categoryId: "PROJECT",
     title: "10 SEPTEMBER 2021",
-    projectTitle: "Nxt Trendz",
+    projectTitle: "Signal Clone",
     description:
       "Nxt Trendz application is an E-commerce application like Amazon, Flipkart where users can log in and see the list of products with search, filters, sort by, etc.",
     imageUrl: "./components/assets/skyscanner.png",
     duration: "6 hrs",
-    projectUrl: "https://nxtz.ccbp.tech/",
-    githubUrl:"https://nxtz.ccbp.tech/"
+    projectUrl: "https://signalapp-101.netlify.app/",
+    githubUrl:"https://github.com/Swathikrishna-0/signal-clone"
   },
   {
     id: "40b82899-fdf7-4a3e-a43a-41a9917b4582",
@@ -108,24 +108,24 @@ const timelineItemsList = [
     id: "e093c08a-a2ae-413a-814b-e7c83f5f2ac3",
     categoryId: "PROJECT",
     title: "10 SEPTEMBER 2021",
-    projectTitle: "Nxt Trendz",
+    projectTitle: "Food Munch Responsive Website",
     description:
       "Nxt Trendz application is an E-commerce application like Amazon, Flipkart where users can log in and see the list of products with search, filters, sort by, etc.",
     imageUrl: "https://assets.ccbp.in/frontend/react-js/nxt-trendz-img.png",
     duration: "6 hrs",
-    projectUrl: "https://nxtz.ccbp.tech/",
-    githubUrl:"https://nxtz.ccbp.tech/"
+    projectUrl: " https://foodmunch1032.ccbp.tech/ ",
+    githubUrl:"https://github.com/Swathikrishna-0/foodmunch"
   },
   {
     id: "ae2ede68-af77-427c-817c-0ce4beeb69c7",
     categoryId: "PROJECT",
     title: "12 JUNE 2021",
-    projectTitle: "Food Munch",
+    projectTitle: "Youtube Clone",
     description: "Food Much Website is a user-centric food tech website.",
     imageUrl: "https://assets.ccbp.in/frontend/react-js/projects-r2-img.png",
     duration: "2 hrs",
-    projectUrl: "https://fm.ccbp.tech/",
-    githubUrl:"https://nxtz.ccbp.tech/"
+    projectUrl: "https://youtube-clone-swathi.netlify.app/",
+    githubUrl:"https://github.com/Swathikrishna-0/YouTube-React-Clone"
   },
   {
     id: "4938c3d1-81cd-4729-9d2c-dcd50796aa4d",
@@ -176,32 +176,32 @@ const timelineItemsList = [
     imageUrl:
       "https://assets.ccbp.in/frontend/react-js/appointments-app/appointments-img.png",
     duration: "3 hrs",
-    projectUrl: "https://todossapp.ccbp.tech/",
-    githubUrl:"https://nxtz.ccbp.tech/"
+    projectUrl: "https://todolist1032.ccbp.tech/",
+    githubUrl:"https://github.com/Swathikrishna-0/To-Dos-Application"
   },
   {
     id: "e093c08a-a2ae-413a-814b-e7c83f5f2ac3",
     categoryId: "PROJECT",
     title: "10 SEPTEMBER 2021",
-    projectTitle: "Nxt Trendz",
+    projectTitle: "Rock Paper Scissors",
     description:
       "Nxt Trendz application is an E-commerce application like Amazon, Flipkart where users can log in and see the list of products with search, filters, sort by, etc.",
     imageUrl: "https://assets.ccbp.in/frontend/react-js/nxt-trendz-img.png",
     duration: "6 hrs",
-    projectUrl: "https://nxtz.ccbp.tech/",
-    githubUrl:"https://nxtz.ccbp.tech/"
+    projectUrl: "https://swathi-rock-paper-scissors.netlify.app/",
+    githubUrl: "https://github.com/Swathikrishna-0/Rock-Paper-Scissors"
   },
   {
     id: "0a35abbe-22ca-40a1-81da-613f656b7702",
     categoryId: "PROJECT",
     title: "29 JULY 2021",
-    projectTitle: "Wikipedia Search Application",
+    projectTitle: "Emoji Game",
     description:
       "Using this Wikipedia Search Application users can search and view curated results and can see detailed explanations in Wikipedia by clicking on the specific result.",
     imageUrl: "https://assets.ccbp.in/frontend/react-js/wiki-logo-img.png",
     duration: "4 hrs",
-    projectUrl: "https://wikiseaarch.ccbp.tech/",
-    githubUrl:"https://nxtz.ccbp.tech/"
+    projectUrl: "https://swathis-emoji-game.netlify.app/",
+    githubUrl:"https://github.com/Swathikrishna-0/Emoji-Game-Reactjs"
   },
   {
     id: "d80781c3-980e-4ab9-96ca-9ad1a9cdf93d",
@@ -246,50 +246,50 @@ const timelineItemsList = [
     id: "7bc3f006-f0f1-4574-924b-17c480556727",
     categoryId: "PROJECT",
     title: "15 AUGUST 2021",
-    projectTitle: "Move Messenger",
+    projectTitle: "Covid-19 Tracker",
     description:
       "The landing page of Move Messenger gives you a brief intro of Move Messenger. The landing page is responsive enabling to view it across various devices.",
     imageUrl:
       "https://assets.ccbp.in/frontend/intermediate-rwd/move-messenger-img.png",
     duration: "5 hr",
-    projectUrl: "https://movemessengers.ccbp.tech/",
-    githubUrl:"https://nxtz.ccbp.tech/"
+    projectUrl: "https://covid-19-tracker-232.netlify.app/",
+    githubUrl:"https://github.com/Swathikrishna-0/Covid_Tracker_React_App"
   },
   {
     id: "e093c08a-a2ae-413a-814b-e7c83f5f2ac3",
     categoryId: "PROJECT",
     title: "10 SEPTEMBER 2021",
-    projectTitle: "Nxt Trendz",
+    projectTitle: "Github Popular Repos",
     description:
       "Nxt Trendz application is an E-commerce application like Amazon, Flipkart where users can log in and see the list of products with search, filters, sort by, etc.",
     imageUrl: "https://assets.ccbp.in/frontend/react-js/nxt-trendz-img.png",
     duration: "6 hrs",
-    projectUrl: "https://nxtz.ccbp.tech/",
-    githubUrl:"https://nxtz.ccbp.tech/"
+    projectUrl: "https://github-popular-repos-swathi.netlify.app/",
+    githubUrl:"https://github.com/Swathikrishna-0/Github-Popular-Repos"
   },
   {
     id: "e093c08a-a2ae-413a-814b-e7c83f5f2ac3",
     categoryId: "PROJECT",
     title: "10 SEPTEMBER 2021",
-    projectTitle: "Nxt Trendz",
+    projectTitle: "Digital Timer App",
     description:
       "Nxt Trendz application is an E-commerce application like Amazon, Flipkart where users can log in and see the list of products with search, filters, sort by, etc.",
     imageUrl: "https://assets.ccbp.in/frontend/react-js/nxt-trendz-img.png",
     duration: "6 hrs",
-    projectUrl: "https://nxtz.ccbp.tech/",
-    githubUrl:"https://nxtz.ccbp.tech/"
+    projectUrl: "https://swathi-digital-timer-app.netlify.app/",
+    githubUrl:"https://github.com/Swathikrishna-0/Digital-Timer "
   },
   {
     id: "e093c08a-a2ae-413a-814b-e7c83f5f2ac3",
     categoryId: "PROJECT",
     title: "10 SEPTEMBER 2021",
-    projectTitle: "Nxt Trendz",
+    projectTitle: "Money Manager",
     description:
       "Nxt Trendz application is an E-commerce application like Amazon, Flipkart where users can log in and see the list of products with search, filters, sort by, etc.",
     imageUrl: "https://assets.ccbp.in/frontend/react-js/nxt-trendz-img.png",
     duration: "6 hrs",
-    projectUrl: "https://nxtz.ccbp.tech/",
-    githubUrl:"https://nxtz.ccbp.tech/"
+    projectUrl: "https://swathi-money-manager.netlify.app/",
+    githubUrl:"https://github.com/Swathikrishna-0/Money-Manager"
   },
   {
     id: "e681e826-260c-4540-9ee5-f53d0e6ecba0",
@@ -334,61 +334,61 @@ const timelineItemsList = [
     id: "e093c08a-a2ae-413a-814b-e7c83f5f2ac3",
     categoryId: "PROJECT",
     title: "10 SEPTEMBER 2021",
-    projectTitle: "Nxt Trendz",
+    projectTitle: "Weather Forecast App",
     description:
       "Nxt Trendz application is an E-commerce application like Amazon, Flipkart where users can log in and see the list of products with search, filters, sort by, etc.",
     imageUrl: "https://assets.ccbp.in/frontend/react-js/nxt-trendz-img.png",
     duration: "6 hrs",
-    projectUrl: "https://nxtz.ccbp.tech/",
-    githubUrl:"https://nxtz.ccbp.tech/"
+    projectUrl: "https://weatherforecastlive.vercel.app/",
+    githubUrl:"https://github.com/Swathikrishna-0/weather-forecast-app-react "
   },
   {
     id: "e093c08a-a2ae-413a-814b-e7c83f5f2ac3",
     categoryId: "PROJECT",
     title: "10 SEPTEMBER 2021",
-    projectTitle: "Nxt Trendz",
+    projectTitle: "Crypto Currency Tracker",
     description:
       "Nxt Trendz application is an E-commerce application like Amazon, Flipkart where users can log in and see the list of products with search, filters, sort by, etc.",
     imageUrl: "https://assets.ccbp.in/frontend/react-js/nxt-trendz-img.png",
     duration: "6 hrs",
-    projectUrl: "https://nxtz.ccbp.tech/",
-    githubUrl:"https://nxtz.ccbp.tech/"
+    projectUrl: "https://crypto-currency-tracker-swathi.netlify.app/",
+    githubUrl:"https://github.com/Swathikrishna-0/Crypto-Currency-Tracker"
   },
   {
     id: "e093c08a-a2ae-413a-814b-e7c83f5f2ac3",
     categoryId: "PROJECT",
     title: "10 SEPTEMBER 2021",
-    projectTitle: "Nxt Trendz",
+    projectTitle: "Prime Video Clone",
     description:
       "Nxt Trendz application is an E-commerce application like Amazon, Flipkart where users can log in and see the list of products with search, filters, sort by, etc.",
     imageUrl: "https://assets.ccbp.in/frontend/react-js/nxt-trendz-img.png",
     duration: "6 hrs",
-    projectUrl: "https://nxtz.ccbp.tech/",
-    githubUrl:"https://nxtz.ccbp.tech/"
+    projectUrl: "https://swathi-prime-video-clone.netlify.app/",
+    githubUrl:" https://github.com/Swathikrishna-0/Prime-Video-Clone"
   },
   {
     id: "e093c08a-a2ae-413a-814b-e7c83f5f2ac3",
     categoryId: "PROJECT",
     title: "10 SEPTEMBER 2021",
-    projectTitle: "Nxt Trendz",
+    projectTitle: "Jobby App",
     description:
       "Nxt Trendz application is an E-commerce application like Amazon, Flipkart where users can log in and see the list of products with search, filters, sort by, etc.",
     imageUrl: "https://assets.ccbp.in/frontend/react-js/nxt-trendz-img.png",
     duration: "6 hrs",
-    projectUrl: "https://nxtz.ccbp.tech/",
-    githubUrl:"https://nxtz.ccbp.tech/"
+    projectUrl: "https://swathi-jobby-app.netlify.app/",
+    githubUrl:"https://github.com/Swathikrishna-0/Jobby-App"
   },
   {
     id: "e093c08a-a2ae-413a-814b-e7c83f5f2ac3",
     categoryId: "PROJECT",
     title: "10 SEPTEMBER 2021",
-    projectTitle: "Nxt Trendz",
+    projectTitle: "Tasty Kitchen",
     description:
       "Nxt Trendz application is an E-commerce application like Amazon, Flipkart where users can log in and see the list of products with search, filters, sort by, etc.",
     imageUrl: "https://assets.ccbp.in/frontend/react-js/nxt-trendz-img.png",
     duration: "6 hrs",
-    projectUrl: "https://nxtz.ccbp.tech/",
-    githubUrl:"https://nxtz.ccbp.tech/"
+    projectUrl: "https://tasty-kitchen-app-swathi.netlify.app/",
+    githubUrl:"https://github.com/Swathikrishna-0/Tasty-Kitchen-App"
   },
 
   {
@@ -430,13 +430,25 @@ const timelineItemsList = [
     id: "e093c08a-a2ae-413a-814b-e7c83f5f2ac3",
     categoryId: "PROJECT",
     title: "10 SEPTEMBER 2021",
-    projectTitle: "Nxt Trendz",
+    projectTitle: "Portfolio Website",
     description:
       "Nxt Trendz application is an E-commerce application like Amazon, Flipkart where users can log in and see the list of products with search, filters, sort by, etc.",
     imageUrl: "https://assets.ccbp.in/frontend/react-js/nxt-trendz-img.png",
     duration: "6 hrs",
-    projectUrl: "https://nxtz.ccbp.tech/",
-    githubUrl:"https://nxtz.ccbp.tech/"
+    projectUrl: "https://swathipriya-portfolio.netlify.app/ ",
+    githubUrl:"https://github.com/Swathikrishna-0/My-Portfolio"
+  },
+  {
+    id: "e093c08a-a2ae-413a-814b-e7c83f5f2ac3",
+    categoryId: "PROJECT",
+    title: "10 SEPTEMBER 2021",
+    projectTitle: "NXT Watch",
+    description:
+      "Nxt Trendz application is an E-commerce application like Amazon, Flipkart where users can log in and see the list of products with search, filters, sort by, etc.",
+    imageUrl: "https://assets.ccbp.in/frontend/react-js/nxt-trendz-img.png",
+    duration: "6 hrs",
+    projectUrl: "https://nxtwatch-app-react.vercel.app/",
+    githubUrl:"https://github.com/Swathikrishna-0/Nxtwatch-App"
   },
   {
     id: "e093c08a-a2ae-413a-814b-e7c83f5f2ac3",
@@ -447,44 +459,32 @@ const timelineItemsList = [
       "Nxt Trendz application is an E-commerce application like Amazon, Flipkart where users can log in and see the list of products with search, filters, sort by, etc.",
     imageUrl: "https://assets.ccbp.in/frontend/react-js/nxt-trendz-img.png",
     duration: "6 hrs",
-    projectUrl: "https://nxtz.ccbp.tech/",
-    githubUrl:"https://nxtz.ccbp.tech/"
+    projectUrl: "https://nxt-trendzz-app.netlify.app/",
+    githubUrl:"https://github.com/Swathikrishna-0/NxtTrendz-App"
   },
   {
     id: "e093c08a-a2ae-413a-814b-e7c83f5f2ac3",
     categoryId: "PROJECT",
     title: "10 SEPTEMBER 2021",
-    projectTitle: "Nxt Trendz",
+    projectTitle: "Netflix/Movie app",
     description:
       "Nxt Trendz application is an E-commerce application like Amazon, Flipkart where users can log in and see the list of products with search, filters, sort by, etc.",
     imageUrl: "https://assets.ccbp.in/frontend/react-js/nxt-trendz-img.png",
     duration: "6 hrs",
-    projectUrl: "https://nxtz.ccbp.tech/",
-    githubUrl:"https://nxtz.ccbp.tech/"
+    projectUrl: "https://cinemate-app-reactjs.vercel.app/",
+    githubUrl:"https://github.com/Swathikrishna-0/Movies-website"
   },
   {
     id: "e093c08a-a2ae-413a-814b-e7c83f5f2ac3",
     categoryId: "PROJECT",
     title: "10 SEPTEMBER 2021",
-    projectTitle: "Nxt Trendz",
+    projectTitle: "Book Hub",
     description:
       "Nxt Trendz application is an E-commerce application like Amazon, Flipkart where users can log in and see the list of products with search, filters, sort by, etc.",
     imageUrl: "https://assets.ccbp.in/frontend/react-js/nxt-trendz-img.png",
     duration: "6 hrs",
-    projectUrl: "https://nxtz.ccbp.tech/",
-    githubUrl:"https://nxtz.ccbp.tech/"
-  },
-  {
-    id: "e093c08a-a2ae-413a-814b-e7c83f5f2ac3",
-    categoryId: "PROJECT",
-    title: "10 SEPTEMBER 2021",
-    projectTitle: "Nxt Trendz",
-    description:
-      "Nxt Trendz application is an E-commerce application like Amazon, Flipkart where users can log in and see the list of products with search, filters, sort by, etc.",
-    imageUrl: "https://assets.ccbp.in/frontend/react-js/nxt-trendz-img.png",
-    duration: "6 hrs",
-    projectUrl: "https://nxtz.ccbp.tech/",
-    githubUrl:"https://nxtz.ccbp.tech/"
+    projectUrl: "https://book-hub-swathi.netlify.app/",
+    githubUrl:"https://github.com/Swathikrishna-0/Book-Hub"
   },
 ];
 
